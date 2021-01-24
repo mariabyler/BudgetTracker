@@ -1,0 +1,8 @@
+{
+  "name": "Budget Tracker App",
+  "short_name": "Budget Tracker",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": ""
+}
